@@ -1,4 +1,4 @@
 #  welcome hands-on
-# learning the react
-# learning the react-native
-# learning npm and yarn 
+# Learning The React
+# Learning The React-native
+# Learning npm and yarn 
